@@ -28,6 +28,6 @@ html {
 
 @media screen and (max-width: 900px) {
   #dolphin {
-    rotate
+    transform: rotate(45deg);
   }
 }
