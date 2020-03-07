@@ -16,9 +16,9 @@ html {
   }
 }
 
-/*@media screen and (max-width: 406px) {*/
-/*  #monkey {*/
-/*    top: 20px;*/
-/*  }*/
-/*}*/
+@media screen and (max-width: 406px) {
+  #monkey {
+    top: 20px;
+  }
+}
 
