@@ -16,3 +16,9 @@ html {
   }
 }
 
+@media screen and (min-width: 406px) {
+  #monkey {
+    top: 20px;
+  }
+}
+
