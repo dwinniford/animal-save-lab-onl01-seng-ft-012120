@@ -31,3 +31,9 @@ html {
     transform: rotate(0.75turn);
   }
 }
+
+@media screen and (max-width: 642px) {
+  #dolphin {
+    top: 400px;
+  }
+}
