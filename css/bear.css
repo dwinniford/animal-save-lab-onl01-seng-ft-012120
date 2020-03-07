@@ -9,4 +9,9 @@ html {
 }
 
 /* Write your solution here */
+@media screen and (width: 1100px) {
+  #bear {
+    left: 1000px;
+  }
+}
 
